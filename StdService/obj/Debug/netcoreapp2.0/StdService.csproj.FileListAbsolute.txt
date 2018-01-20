@@ -1,0 +1,10 @@
+D:\001-git\student-service\StdService\bin\Debug\netcoreapp2.0\StdService.deps.json
+D:\001-git\student-service\StdService\bin\Debug\netcoreapp2.0\StdService.runtimeconfig.json
+D:\001-git\student-service\StdService\bin\Debug\netcoreapp2.0\StdService.runtimeconfig.dev.json
+D:\001-git\student-service\StdService\bin\Debug\netcoreapp2.0\StdService.dll
+D:\001-git\student-service\StdService\bin\Debug\netcoreapp2.0\StdService.pdb
+D:\001-git\student-service\StdService\obj\Debug\netcoreapp2.0\StdService.csproj.CoreCompileInputs.cache
+D:\001-git\student-service\StdService\obj\Debug\netcoreapp2.0\StdService.AssemblyInfoInputs.cache
+D:\001-git\student-service\StdService\obj\Debug\netcoreapp2.0\StdService.AssemblyInfo.cs
+D:\001-git\student-service\StdService\obj\Debug\netcoreapp2.0\StdService.dll
+D:\001-git\student-service\StdService\obj\Debug\netcoreapp2.0\StdService.pdb
