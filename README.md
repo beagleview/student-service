@@ -1,2 +1,2 @@
 # student-service
-Simple project with .net core
+Simple project with .Net Core web service (CRUD).
