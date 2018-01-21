@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/StdService/StdService.csproj"
+                "${workspaceFolder}/sample1/StdService/StdService.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

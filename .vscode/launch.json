@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/StdService/bin/Debug/netcoreapp2.0/StdService.dll",
+            "program": "${workspaceFolder}/sample1/StdService/bin/Debug/netcoreapp2.0/StdService.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/StdService",
+            "cwd": "${workspaceFolder}/sample1/StdService",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
