@@ -7,6 +7,6 @@ namespace StudentApi.Models
         public StudentApiContext(DbContextOptions<StudentApiContext> options) : base(options){
 
         }
-
+        public DbSet<Student> Students {get; set;}
     }
 }
