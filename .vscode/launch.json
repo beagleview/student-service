@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/sample1/StdService/bin/Debug/netcoreapp2.0/StdService.dll",
+            "program": "${workspaceFolder}/sample2/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/sample1/StdService",
+            "cwd": "${workspaceFolder}/sample2/StudentApi",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
