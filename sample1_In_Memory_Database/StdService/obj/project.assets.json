@@ -12599,11 +12599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\001-git\\dotnet-core-webapi\\sample1\\StdService\\StdService.csproj",
+      "projectUniqueName": "d:\\001-git\\dotnet-core-webapi\\sample1_In_Memory_Database\\StdService\\StdService.csproj",
       "projectName": "StdService",
-      "projectPath": "d:\\001-git\\dotnet-core-webapi\\sample1\\StdService\\StdService.csproj",
+      "projectPath": "d:\\001-git\\dotnet-core-webapi\\sample1_In_Memory_Database\\StdService\\StdService.csproj",
       "packagesPath": "C:\\Users\\taech\\.nuget\\packages\\",
-      "outputPath": "d:\\001-git\\dotnet-core-webapi\\sample1\\StdService\\obj\\",
+      "outputPath": "d:\\001-git\\dotnet-core-webapi\\sample1_In_Memory_Database\\StdService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
